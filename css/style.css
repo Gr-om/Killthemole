@@ -1,0 +1,15 @@
+.grid {
+  display: grid;
+  grid-template: repeat(3, 1fr)
+    / repeat(3, 1fr);
+  width: 200px;
+  height: 200px;
+}
+.square {
+  border: 1px solid blue;
+}
+
+.square.mole {
+  background-image: url(http://cache.marieclaire.fr/data/photo/w308_c17/7da81bc2034rene.jpg);
+  background-size: cover;
+}
