@@ -1,2 +1,2 @@
-# Killthemole
-Javascript Kill the Mole game
+# Kill The Mole - Student Project
+A real basic Javascript Kill the mole game
